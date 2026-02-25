@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data (런타임에 자동 다운로드됨)
+input.txt
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# skills
+.agent/
+.agents/
+skills-lock.json
+
+docs/explain_ko.md
+docs/explain.md
